@@ -7,7 +7,7 @@ let union: string | number;
 union = "cat";
 union = 5;
 
-type EnableOrDisable = "enabel" | "disable";
+type EnableOrDisable = "enable" | "disable";
 let literal: EnableOrDisable;
-literal = "enabel";
+literal = "enable";
 literal = "disable";

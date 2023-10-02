@@ -4,7 +4,7 @@
 
 interface PageProps {
   title: string;
-  autor: string;
+  author: string;
   year: number;
 }
 
